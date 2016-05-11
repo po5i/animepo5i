@@ -1,0 +1,64 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	/*background-image: url();*/
+	background-color: #EEEBBE;
+	SCROLLBAR-FACE-COLOR: #BCA883; 
+	SCROLLBAR-HIGHLIGHT-COLOR: #006699; 
+	SCROLLBAR-SHADOW-COLOR: #BCA883; 
+	SCROLLBAR-3DLIGHT-COLOR: #BCA883; 
+	SCROLLBAR-ARROW-COLOR:  #EEEBBE; 
+	SCROLLBAR-TRACK-COLOR: #EEEBBE; 
+	SCROLLBAR-DARKSHADOW-COLOR: #EEEBBE;	
+}
+h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #8F784E;
+	font-style: italic;
+	font-weight:bold;
+}
+.subtitulos {
+	font-weight: bold; 
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-style: italic; 
+	color: #8F7864;
+}
+.seleccionado {
+	color:white;
+	background:#8F7864;
+	font-weight: bold;	
+}
+.contraste {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+}
+.boton{
+	font-size:10px;
+	font-family:Verdana,Helvetica;
+	font-weight:bold;
+	color:white;
+	background:#8F7864;
+	border:0px;
+	width:80px;
+	height:19px;
+}
+table {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+a:link {
+	color: #8F7864;
+}
+a:visited {
+	color: #8F7864;
+}
+a:hover {
+	color: #8F7864;
+}
+a:active {
+	color: #8F7864;
+}

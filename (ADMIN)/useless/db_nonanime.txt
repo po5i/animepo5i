@@ -1,0 +1,99 @@
+Zato Ichi
+(Pelicula)
+LENG:<img src="flags/japones.gif"> SUB:<img src="flags/espanol.gif"><img src="flags/ingles.gif">
+(1 DVD) HQ 
+MPEG-2
+Samurai
+N/A
+9
+others/zatoichi.jpg
+
+7 Samurai
+(Pelicula)
+LENG:<img src="flags/japones.gif"> SUB:<img src="flags/espanol.gif"><img src="flags/ingles.gif">
+(1 DVD) HQ 
+MPEG-2
+Samurai
+N/A
+9
+others/7samurai.jpg
+
+Star Wars
+(Todas las Peliculas)
+LENG:<img src="flags/ingles.gif"><img src="flags/espanol.gif"> SUB:<img src="flags/ingles.gif">
+(6 DVD) HQ 
+MPEG-2
+Ciencia Ficción
+N/A
+10
+others/starwars.jpg
+
+Kung Fu Hustle
+(Pelicula)
+LENG:<img src="flags/chino.gif"> SUB:<img src="flags/espanol.gif">
+(1 DVD) HQ 
+MPEG-2
+Acción / Artes Marciales
+N/A
+8
+others/hustle.jpg
+
+The Twilight Samurai (el samurai del ocaso)
+(Pelicula)
+LENG:<img src="flags/japones.gif"> SUB:<img src="flags/espanol.gif">
+(1 VCD) LQ 
+MPEG
+Samurais
+N/A
+0
+others/twilight.jpg
+
+Mibu Gishiden
+(Pelicula)
+LENG:<img src="flags/japones.gif"> SUB:<img src="flags/espanol.gif">
+(1 VCD) LQ 
+MPEG
+Samurais
+Film Partners
+8
+others/mibu.jpg
+
+Shaolin Soccer
+(Pelicula)
+LENG:<img src="flags/chino.gif"> SUB:<img src="flags/espanol.gif">
+(1 DVD) HQ 
+MPEG-2
+Comedia / Soccer / Acción 
+N/A
+10
+others/shaolin.jpg
+
+South Park - Bigger, Longer and Uncut
+(Pelicula)
+LENG:<img src="flags/ingles.gif"> SUB:<img src="flags/espanol.gif">
+(1 CD) HQ 
+MPEG-4
+Comedia / Parodias / Satira
+Po5i
+10
+others/southparkmv.jpg
+
+South Park
+(33 eps.) - <a href="southpark.htm"> ver la lista </a>
+LENG:<img src="flags/ingles.gif">
+(3 CD) LQ 
+MPEG-4 - Xvid
+Comedia / Parodias / Satira
+N/A
+10
+others/southpark_episodes.jpg
+
+The Legend of Zelda [1989] 
+(13 eps. + Mangas + ROMS + mp3 + Extras)
+LENG:<img src="flags/ingles.gif">
+(3 CD) LQ 
+MPEG
+Basado en videojuego
+N/A
+6
+others/zeldatv.jpg

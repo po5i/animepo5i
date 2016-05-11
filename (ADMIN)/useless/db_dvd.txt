@@ -1,0 +1,71 @@
+Card Captor Sakura
+LENG:<img src="flags/japones.gif"> SUB:<img src="flags/ingles.gif">
+(8 DVD)
+DVD
+Magia / Clamp
+HK
+10
+movies/dvd_ccs.gif
+
+Rurouni Kenshin The Movie
+LENG:<img src="flags/japones.gif"> <img src="flags/espanol.gif"> SUB:<img src="flags/espanol.gif">
+(1 DVD)
+DVD
+Artes Marciales
+Selecta Vision
+7
+movies/dvd_samuraix.gif
+
+Ninja Scroll
+LENG:<img src="flags/japones.gif"> <img src="flags/espanol.gif"> SUB:<img src="flags/espanol.gif">
+(1 DVD)
+DVD
+Artes Marciales
+ADV
+7
+movies/dvd_ninjascroll.gif
+
+Captain Tsubasa (vol.1 y vol.2)
+LENG:<img src="flags/japones.gif"> <img src="flags/espanol.gif"> SUB:<img src="flags/espanol.gif">
+(2 DVD)
+DVD
+Soccer
+Jonu Media
+8
+movies/dvd_tsubasa1.gif
+
+FLCL
+LENG:<img src="flags/japones.gif"> <img src="flags/espanol.gif"> SUB:<img src="flags/espanol.gif">
+(3 DVD)
+DVD
+Comedia / Acción / Gainax
+Selecta Vision
+10
+movies/dvd_flcl.gif
+
+Rurouni Kenshin - Trust & Betrayal (Director's Cut)
+LENG:<img src="flags/japones.gif"> <img src="flags/ingles.gif"> SUB:<img src="flags/ingles.gif">
+(1 DVD) 
+DVD
+Acción / Artes Marciales 
+ADV
+10
+movies/dvd_kenshinTB.gif
+
+Rurouni Kenshin - Reflection 
+LENG:<img src="flags/japones.gif"> <img src="flags/ingles.gif"> SUB:<img src="flags/ingles.gif">
+(1 DVD) 
+DVD
+Acción / Artes Marciales 
+ADV
+10
+movies/dvd_kenshinREFLEX.gif
+
+Hellsing 
+LENG:<img src="flags/japones.gif"> SUB:<img src="flags/espanol.gif">
+(3 DVD) 
+DVD
+Vampiros / Acción 
+Dash (custom)
+10
+movies/dvd_hellsing.gif

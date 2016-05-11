@@ -1,0 +1,48 @@
+___________________________________________________
+
+Your Web site URL :          http://animepo5i.php0h.com
+
+
+Please take note of your new settings :
+
+MySQL Host Name:             sql.php0h.com
+MySQL User Name:             p0_119831
+MySQL Database Name:         p0_119831
+FTP User Name:               p0_119831
+
+Your passwords are the same.  Your password has not been changed.
+The literal file system path to your web site has also changed.  Whilst this will not effect most customers, we would like to let you know what the new path to your web site is:
+
+File system path to your site:   /home/vol3/php0h.com/animepo5i/www/
+
+Your details are:
+
+    * Username: animepo5i
+    * Password: 0917852147
+    * MySQL Host: localhost
+    * MySQL Database: animepo5i
+    * FTP Server: php0h.com
+    * phpMyAdmin URL: http://support.php0h.com/myadmin/
+    * Website URL: http://animepo5i.php0h.com/
+
+
+
+
+Usuario :	po5i-tempsite_5
+Dirección del servidor (Host) :	po5i-tempsite.iespana.es
+Puerto :	21
+
+_______________________________________________________
+http://www.php1h.com
+
+Welcome to php1h.
+
+Your details are:
+
+    * Username: cvillavi
+    * Password: kenkaku2002
+    * MySQL Host: localhost
+    * MySQL Database: cvillavi
+    * FTP Server: php1h.com
+    * phpMyAdmin URL: http://support.php1h.com/myadmin/
+    * Website URL: http://cvillavi.php1h.com/
